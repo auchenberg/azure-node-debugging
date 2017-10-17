@@ -1,5 +1,5 @@
 var kudu = require('kudu-api')({
-    website: 'auchenberg-app-node-demo',
+    website: 'node-demo-version-app',
     username: process.env.username,
     password: process.env.password
 })
